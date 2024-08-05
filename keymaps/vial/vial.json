@@ -2,7 +2,7 @@
     "name": "Skeletyl",
     "matrix": {
         "rows": 8,
-        "cols": 10
+        "cols": 5
     },
     "layouts": {
         "keymap":
