@@ -1,0 +1,6 @@
+VIAL_INSECURE = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = vendor
